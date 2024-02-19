@@ -8,7 +8,7 @@
   - [System Requirement](#system-requirement)
     - [OS requirement](#OS-requirement)
     - [Processing time](#Processing-time)
-  - [Contact](#contact)
+  - [Contact and affiliation](#contact-and-affiliation)
   - [License](#LICENSE)
   - [Change logs](#change-logs)
 
@@ -43,10 +43,12 @@ The model is not restricted to a specific operating system. Although we conducte
 
 However, when the same Python code is run on a personal computer with a 12th Gen Intel(R) Core(TM) i7-1265U @1.80 GHz processor and 32 GB RAM, it takes around **50 hours** for it to complete a single cycle.  
 
-## Contact
+## Contact and affiliation
 If you have any questions or need help with the model, you can contact us at:        
-- Chandrakant Singh: [chandrakant.singh@chalmers.se](mailto:chandrakant.singh@chalmers.se)    
-- Martin Persson: [martin.persson@chalmers.se](mailto:martin.persson@chalmers.se)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Chandrakant Singh and U. Martin Persson**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](mailto:chandrakant.singh@chalmers.se,martin.persson@chalmers.se): chandrakant.singh@chalmers.se and martin.persson@chalmers.se   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Physical Resource Theory, Department of Space, Earth & Environment,   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chalmers University of Technology, Gothenburg, Sweden
 
 
 ## License
