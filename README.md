@@ -47,7 +47,7 @@ If you have any questions or need help with the model, you can contact us at:
 
 
 ## License
-This model is licensed under the GNU General Public License v3.0 (GPL-3.0). It allows users to freely use, modify, and distribute software, ensuring that all modified versions remain free and open under the same license terms.
+This model is licensed under the GNU General Public License v3.0 (GPL-3.0). It allows users to freely use, modify, and distribute software, ensuring that all modified versions remain free and open under the same license terms.   
 (see Licence terms [LICENCE.md](LICENSE.md))
 
 
