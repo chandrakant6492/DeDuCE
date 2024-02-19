@@ -46,7 +46,7 @@ However, when the same Python code is run on a personal computer with a 12th Gen
 ## Contact and affiliation
 If you have any questions or need help with the model, you can contact us at:        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Chandrakant Singh and U. Martin Persson**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](mailto:chandrakant.singh@chalmers.se,martin.persson@chalmers.se): chandrakant.singh@chalmers.se and martin.persson@chalmers.se   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](mailto:chandrakant.singh@chalmers.se;martin.persson@chalmers.se): chandrakant.singh@chalmers.se and martin.persson@chalmers.se   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Physical Resource Theory, Department of Space, Earth & Environment,   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chalmers University of Technology, Gothenburg, Sweden
 
