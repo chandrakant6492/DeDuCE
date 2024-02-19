@@ -24,6 +24,7 @@ The input and generated data by the model is available at **Zenodo**: https://do
 
 
 ## GitHub repository contents
+To replicate our analysis, the model need to be run in the following order:
 - `1. Deforestation attribution (GEE)-Spatial`: Employs the Earth Engine Python API for spatial deforestation attribution, leveraging Google Earth Engine's extensive data and computational power (to be used as input for statistical deforestation attribution). More information about [Earth Engine Python API](https://developers.google.com/earth-engine/guides/python_install). 
 - `2. Data visualisation (Spatial attribution)`: Analysis of spatial attribution estimates.
 - `3. Analysing gross crop and grass loss`: Gross crop and grass loss following the methodology by [Li et al. 2018](https://doi.org/10.5194/essd-10-219-2018) (to be used as input for statistical deforestation attribution).
