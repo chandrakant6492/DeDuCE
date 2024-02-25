@@ -64,4 +64,4 @@ This model is licensed under the GNU General Public License v3.0 (GPL-3.0). It a
 Future changes to the model will appear here.
 | Version | Date    | Description    |
 | :---:   | :---: | :---: |
-| v1.0.0 | 25-Feb-2024   | Initial code archived   |
+| v1.0.0 | 26-Feb-2024   | Initial code archived   |
