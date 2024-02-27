@@ -44,7 +44,7 @@ The model is not restricted to a specific operating system. Although we conducte
 
 **Python**: Executing the statistical attribution script (`4. Deforestation attribution (Python)-Statistical`) on a Linux server configured for `multiprocessing` — allowing the task to be distributed across multiple CPUs — the processing time is about **3 hours** for it to complete a single cycle. The Linux server is equipped with Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz, featuring 48 CPUs and 252 GB RAM.   
 
-However, when the same Python code is run on a personal computer with a 12th Gen Intel(R) Core(TM) i7-1265U @1.80 GHz processor and 32 GB RAM, it takes around **50 hours** for it to complete a single cycle (expected runtime for a single (sub-/)national administrative boundary is about 40 seconds).  
+However, when the same Python code is run on a personal computer with a 12th Gen Intel(R) Core(TM) i7-1265U @1.80 GHz processor and 32 GB RAM, it takes around **50 hours** for it to complete a single cycle (expected runtime for a single (sub-)national administrative boundary is about 40 seconds).  
 
 ## Contact
 If you have any questions or need help with the model, you can contact us at:        
