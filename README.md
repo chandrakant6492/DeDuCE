@@ -10,6 +10,7 @@
     - [OS requirement](#OS-requirement)
     - [Processing time](#Processing-time)
   - [Contact](#contact)
+    - [Funding](#Funding)
   - [License](#LICENSE)
   - [Change logs](#change-logs)
 
@@ -54,6 +55,8 @@ If you have any questions or need help with the model, you can contact us at:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Physical Resource Theory, Department of Space, Earth & Environment,   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chalmers University of Technology, Gothenburg, Sweden
 
+### Funding
+We acknowledge the funding support from ÅForsk Foundation (Project name: ReDUCE and grant no.: 22-64) and the Belmont Forum, through FORMAS (Project name: BEDROCK and grant no.: 2022-02563).
 
 ## License
 This model is licensed under the GNU General Public License v3.0 (GPL-3.0). It allows users to freely use, modify, and distribute software, ensuring that all modified versions remain free and open under the same license terms.   
