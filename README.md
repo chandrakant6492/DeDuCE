@@ -1,6 +1,6 @@
 # Deforestation Driver and Carbon Emission (DeDuCE) model
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10674962.svg)](https://doi.org/10.5281/zenodo.10674962)
-![version](https://img.shields.io/badge/version-1.0.0-green)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13624636.svg)](https://doi.org/10.5281/zenodo.13624636)
+![version](https://img.shields.io/badge/version-1.0.1-green)
 
 ## Table of Contents
   - [Overview](#overview)
