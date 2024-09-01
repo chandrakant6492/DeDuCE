@@ -36,7 +36,7 @@ To replicate our analysis, the model needs to be run in the following order (i.e
 - `4. Deforestation attribution (Python)-Statistical`: Statistical deforestation attribution, estimation of carbon emissions and quality assessment. Results generated for this step are archived on Zenodo. 
 - `5. Data analysis and visualisation`: All data analyses presented in the study.
 - `6. Sensitivity analyses.ipynb`: Sensitivity analyses details provided in Table 1 of the manuscript.
-- `7. Trade analyses and visualisation.ipynb`: Deforestation embodied in trade analysed using the DeDuCE dataset. 
+- `7. Trade analyses visualisation.ipynb`: Deforestation embodied in trade analysed using the DeDuCE dataset. 
 - `Troubleshooting`: For troubleshooting spatial and statistical deforestation attribution code. It also provides a demo of the DeDuCE model's `Spatial` and `Statistical` deforestation attribution segments.
 
 
