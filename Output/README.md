@@ -22,7 +22,7 @@ The complete dataset (global) is available on Zenodo: [https://doi.org/10.5281/z
 See the subfolder: `2. Result (Generated post-spatial deforestation attribution)`.
 
 ### `2. Data visualisation (Spatial attribution).ipynb`
-This script checks how much of the total tree cover loss (dotted line) is attributable to forest loss (i.e., loss of natural forests; everything below the solid line) (see figure below). The legend values correspond to different land-use types and commodities, and can be found in `5. DeDuCE-Lookup.xlsx` on Zenodo.
+This script checks how much of the total tree cover loss (dotted line) is attributable to forest loss (i.e., loss of natural forests; everything below the solid line) (see figure below). This figure is based on `Forest_loss_to_CLASSIFICATION_Uruguay.csv`. The legend values correspond to different land-use types and commodities, and can be found in `5. DeDuCE-Lookup.xlsx` on Zenodo.
 ![alt text](https://github.com/chandrakant6492/DeDuCE/blob/main/Output/Uruguay%20post-spatial%20attribution.png)
 
 ### `3. Analysing Gross Croploss and Grassloss.ipynb`
