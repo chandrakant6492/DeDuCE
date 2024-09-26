@@ -45,6 +45,23 @@ To replicate our analysis, the model needs to be run in the following order (i.e
 ### OS requirement
 The model is not restricted to a specific operating system. Although we conducted our tests on a Linux system, it is fully compatible with Windows and MacOS, provided your computer supports **Python (version 3.10.12)**.
 
+### Packages used
+Following are the packages and their respective versions used in this model: 
+`geetools: 1.4.0`
+rasterio: 1.4.0
+matplotlib: 3.9.2
+pandas: 2.2.3
+tqdm: 4.66.5
+numpy: 2.1.1
+concurrent: Version info not found
+seaborn: 0.13.2
+geopandas: 1.0.1
+geemap: 0.34.5
+plotly: 5.24.1
+os: Version info not found
+datetime: Version info not found
+xarray: 2024.9.0
+
 ### Processing time
 **Google Earth Engine (GEE)**: GEE imposes usage limits to ensure equitable resource distribution among its users. Running the DeDuCE model's spatial attribution script (`1. Deforestation attribution (GEE)-Spatial`), requires approximately **198 hours** for a standard user privilege account for a single cycle of global spatial attribution.  
 
