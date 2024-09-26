@@ -52,7 +52,7 @@ Following are the packages and their respective versions used in this model:
 `geetools: 1.4.0`, `rasterio: 1.4.0`,`matplotlib: 3.9.2`,`pandas: 2.2.3`,`tqdm: 4.66.5`,`numpy: 2.1.1`,`seaborn: 0.13.2`,`geopandas: 1.0.1`,`geemap: 0.34.5`,`plotly: 5.24.1`,`xarray: 2024.9.0`
 
 ### Processing time
-**Google Earth Engine (GEE)**: GEE imposes usage limits to ensure equitable resource distribution among its users. Running the DeDuCE model's spatial attribution script (`1. Deforestation attribution (GEE)-Spatial`), requires approximately **198 hours** for a standard user privilege account for a single cycle of global spatial attribution.  
+**Google Earth Engine (GEE)**: GEE imposes usage limits to ensure equitable resource distribution among its users. Running the DeDuCE model's spatial attribution script (`1. Deforestation attribution (GEE)-Spatial`), requires approximately **356 hours** for a standard user privilege account for a single cycle of global spatial attribution.  
 
 **Python**: Executing the statistical attribution script (`4. Deforestation attribution (Python)-Statistical`) on a Linux server configured for `multiprocessing` — allowing the task to be distributed across multiple CPUs — the processing time is about **3 hours** for it to complete a single cycle. The Linux server is equipped with Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz, featuring 48 CPUs and 252 GB RAM.   
 
