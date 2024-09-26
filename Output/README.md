@@ -22,5 +22,6 @@ The complete dataset (global) is available on Zenodo: [https://doi.org/10.5281/z
 See the subfolder: `2. Result (Generated post-spatial deforestation attribution)`
 
 ### `4. Deforestation attribution (Python)-Statistical.py`
-Running this script will produce the final deforestation estimates. These estimates are already archived on Zenodo and can be accessed here: [https://doi.org/10.5281/zenodo.13624636](https://doi.org/10.5281/zenodo.13624636)  
+Running this script will produce the final deforestation estimates. 
+We provide an example of final deforestation attribution for just Uruguay in the **`DeDuCE_Deforestation_attribution_v1.0.1 (2001-2022).xlsx`** file. These, including deforestation estimates for other countries,  are already archived on Zenodo and can be accessed here: [https://doi.org/10.5281/zenodo.13624636](https://doi.org/10.5281/zenodo.13624636)  
 See the subfolder: `3. Final Attribution Results`
