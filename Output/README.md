@@ -26,7 +26,7 @@ This script checks how much of the total tree cover loss (dotted line) is attrib
 ![alt text](https://github.com/chandrakant6492/DeDuCE/blob/main/Output/Uruguay%20post-spatial%20attribution.png)
 
 ### `3. Analysing Gross Croploss and Grassloss.ipynb`
-Estimating crop and grass loss is based on the methodology by [Li et al. 2018](https://doi.org/10.5194/essd-10-219-2018). A sample estimate of grass and pasture loss is shown in `Gross_cropland_grassland_changes_2001-2022 (Uruguay).xlsx` file. The global crop and grassloss is available on Zenodo: [https://doi.org/10.5281/zenodo.13624636](https://doi.org/10.5281/zenodo.13624636).
+Estimating crop and grass loss is based on the methodology by [Li et al. 2018](https://doi.org/10.5194/essd-10-219-2018). A sample estimate of crop and grass loss is shown in `Gross_cropland_grassland_changes_2001-2022 (Uruguay).xlsx` file. The global crop and grassloss is available on Zenodo: [https://doi.org/10.5281/zenodo.13624636](https://doi.org/10.5281/zenodo.13624636).
 See the subfolder: `1. Model Input/Crop and grass loss`
 
 
