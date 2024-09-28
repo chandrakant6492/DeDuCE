@@ -85,4 +85,5 @@ Future changes to the model will appear here.
 
 
 ## Model overview
+Detailed model insights can be found in the publication mentioned above.
 ![alt text](https://github.com/chandrakant6492/DeDuCE/blob/main/Model%20overview.png)
