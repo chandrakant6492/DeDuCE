@@ -15,6 +15,7 @@
     - [Funding](#Funding)
   - [License](#LICENSE)
   - [Change logs](#change-logs)
+  - [Model overview](#model-overview)
 
 
 ## Overview
@@ -81,3 +82,7 @@ Future changes to the model will appear here.
 | :---:   | :---: | :---: |
 | v1.0.1 | 31-Aug-2024   | Improved BGB calculation, addition of recent MapBiomas collection, removal of Rubber data |
 | v1.0.0 | 26-Feb-2024   | Initial code archived |
+
+
+## Model overview
+![alt text](https://github.com/chandrakant6492/DeDuCE/blob/main/Model%20overview.png)
