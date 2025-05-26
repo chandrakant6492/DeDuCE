@@ -37,7 +37,7 @@ To replicate our analysis, the model needs to be run in the following order (i.e
 - `3. Analysing gross crop and grass loss`: Gross crop and grass loss following the methodology by [Li et al. 2018](https://doi.org/10.5194/essd-10-219-2018). Output generated from this step is used as input for statistical deforestation attribution.
   - `3.1 Analysing gross crop and grass loss-Subnational`: Gross crop and grass loss for subnational boundaries. Presently analysed for Brazil at municiplaity level. 
 - `4. Deforestation attribution (Python)-Statistical`: Statistical deforestation attribution, estimation of carbon emissions and quality assessment. Results generated for this step are archived on Zenodo. 
-- `5. Data analysis and visualisation` and `5.1 Data analysis and visualisation-Nature Food`: All data analyses presented in the study.
+- `5. Data analysis and visualisation` and `5.1 Data analysis and visualisation-Nature Food`: All data analyses and visualisations presented in the study.
 - `6. Sensitivity analyses.ipynb`: Sensitivity analyses details provided in Table 1 of the manuscript.
 - `7. Trade analyses visualisation.ipynb`: Deforestation embodied in trade analysed using the DeDuCE dataset. 
 - `Output`: Expected output from running the DeDuCE model's `Spatial` and `Statistical` deforestation attribution segments.
